@@ -10,3 +10,6 @@ hello git 第三次修改文件内容！
 check out ! haha !
 
 check out 2 !
+
+
+本地master分支和远程分支结合了！
