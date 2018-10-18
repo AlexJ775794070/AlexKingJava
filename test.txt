@@ -23,3 +23,6 @@ test conflict resolve!
 
 usually git-demo branch
 
+
+hard sit git demo
+
