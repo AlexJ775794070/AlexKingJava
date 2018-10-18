@@ -13,3 +13,7 @@ check out 2 !
 
 
 本地master分支和远程分支结合了！
+
+
+
+test conflict resolve!
