@@ -5,3 +5,8 @@ hello git 第二次修改文件内容！
 
 
 hello git 第三次修改文件内容！
+
+
+check out ! haha !
+
+check out 2 !
