@@ -16,7 +16,7 @@ check out 2 !
 
 
 
-branch test and git uat
+branch test and git prd
 
 
 test conflict resolve!
