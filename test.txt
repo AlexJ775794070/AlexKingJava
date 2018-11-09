@@ -23,3 +23,6 @@ test conflict resolve!
 
 
 git stash test!
+
+
+需要测试git提交的文件到哪里去了
