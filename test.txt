@@ -16,13 +16,9 @@ check out 2 !
 
 
 
-branch test and git uat
+branch test and git prd
 
 
 test conflict resolve!
 
-usually git-demo branch
-
-
-hard sit git demo
-
+需要测试git提交的文件到哪里去了
